@@ -1,1 +1,2 @@
-This project was part of Data Science Masters at Northeaster University, for DS100 course about Database management and user interface
+📄 **[Read the full report (PDF)](Report Database Design and User Interface.pdf)**
+This project was part of my Masters' in Data Science at Northeaster University, for DS100 course about Database management and user interface
