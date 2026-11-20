@@ -1,2 +1,1 @@
-Masters' project 
-Database management and user interface
+This project was part of Data Science Masters at Northeaster University, for DS100 course about Database management and user interface
